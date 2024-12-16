@@ -12,7 +12,7 @@
 }
 
 #chart {
-  max-width: 800px;
-  max-height: 400px;
+  width: 800px;
+  height: 400px;
   margin: 0 auto;
 }
