@@ -1,3 +1,7 @@
+import Chart from "chart.js/auto";
+import '@pnotify/core/dist/BrightTheme.css';
+
+
 const keys = ["Enter", "Escape", "Space", "ArrowRight", "ArrowLeft", "ArrowUp", "ArrowDown"];
 
 const keyText = document.querySelector("#key");
